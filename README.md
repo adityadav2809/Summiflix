@@ -21,3 +21,5 @@ If you're interested in contributing to Summiflix, we welcome pull requests! Ple
 ## License
 
 Summiflix is licensed under the MIT License.
+
+## Output
