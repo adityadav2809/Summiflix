@@ -23,3 +23,4 @@ If you're interested in contributing to Summiflix, we welcome pull requests! Ple
 Summiflix is licensed under the MIT License.
 
 ## Output
+https://github.com/adityadav2809/Summiflix/blob/main/OUTPUT.pdf
